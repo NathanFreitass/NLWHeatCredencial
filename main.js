@@ -2,7 +2,7 @@ const LinksSocialMedia = {
    github: 'NathanFreitass',
    facebook: 'nathan.araujodefreitas',
    instagram: 'Nathan__Freitass',
-   linkedin: 'nathan-freitas'
+   linkedin: 'in/nathan-freitas-34779a196'
 }
 
 function changeSocialMediaLinks() {
